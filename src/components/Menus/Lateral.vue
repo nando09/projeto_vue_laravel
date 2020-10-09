@@ -2,7 +2,7 @@
 	<div class="menu-sidebar indigo darken-4">
 		<ul>
 			<li>
-				<router-link class="grey-text text-lighten-3" to="/home"><i class="fas fa-home"></i></router-link>
+				<router-link class="grey-text text-lighten-3" to="/"><i class="fas fa-home"></i></router-link>
 			</li>
 			<li>
 				<router-link class="grey-text text-lighten-3" to="/candidatos"><i class="fas fa-users"></i></router-link>
