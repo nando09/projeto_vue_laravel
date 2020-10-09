@@ -1,0 +1,14 @@
+body{
+	background: #eee;
+}
+
+.conteudo{
+	float: right;
+	max-width: 95vw;
+	width: 95vw;
+}
+
+li .router-link-active i, li .router-link-active{
+	background: #eee;
+	color: #1a237e;
+}
