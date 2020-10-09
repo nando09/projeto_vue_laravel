@@ -3,9 +3,10 @@ body{
 }
 
 .conteudo{
+	margin-top: 10vh;
 	float: right;
-	max-width: 95vw;
-	width: 95vw;
+	max-width: 95%;
+	width: 95%;
 }
 
 li .router-link-active i, li .router-link-active{

@@ -26,6 +26,8 @@ export default {
 </script>
 <style type="text/css">
 	.topo{
+		position: fixed;
+		z-index: 99999;
 		height: 10vh;
 	}
 </style>

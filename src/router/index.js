@@ -10,13 +10,13 @@ import Curriculos from '../views/Curriculos/Curriculos.vue';
 const routes = [
   {
     path: "/",
-    name: "Home",
-    component: Home
+    name: "Index",
+    component: Index
   },
   {
     path: "/home",
-    name: "Index",
-    component: Index
+    name: "Home",
+    component: Home
   },
   {
     path: "/candidatos",
